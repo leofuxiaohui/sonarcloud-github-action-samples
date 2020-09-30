@@ -1,4 +1,4 @@
-name: Build - test
+name: Build - test1
 
 on:
   # Trigger analysis when pushing in master or pull requests, and when creating
